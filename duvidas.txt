@@ -1,0 +1,4 @@
+Não consegui centralizar o rodapé. Só consegui colocando no html
+
+Quando vou diminuindo a tela oa nomes home,adotaqui e contatos ficam no msm lugar só depois
+de 700px pra menos que caem
