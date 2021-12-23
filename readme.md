@@ -1,0 +1,1 @@
+Este projeto ajuda pessoas a encontrarem cães para adoção
